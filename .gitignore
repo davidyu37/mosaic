@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+media/
+.pytest_cache/
+emosaic/tests/output/*
+.ipynb_checkpoints/
+cache/*
