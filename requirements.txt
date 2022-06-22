@@ -1,4 +1,4 @@
-numpy==1.15.1
+numpy==1.22.0
 pytest==3.8.0 
 ipython[notebook]==5.8.0
 scipy==1.1.0
